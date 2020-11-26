@@ -11,7 +11,7 @@ namespace MedicinesUI.Services
 {
     public class MedicineRepository:IMedicineRepository
     {
-        private string filePath = @"Services\Records.json";
+        private string filePath = @"Services/Records.json";
         public MedicineRepository()
         {
 
